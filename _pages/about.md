@@ -14,7 +14,7 @@ Cuando no estoy inmerso en el mundo de la tecnología, me gusta dedicar mi tiemp
 
 Además la música ocupa un lugar especial en mi corazón. La música es mi escape y mi compañero constante en todo momento para despejar la mente. Se tocar los siguientes instrumentos: guitarra, piano, ukelele, marimba, violin. También tengo a los videjuegos que desde la infancia ha sido una actividad constante en mi vida, donde he conocido amigos y pasados momentos muy buenos.
 
-En cuanto a mi vida personal, puedo decir con toda seguridad que tengo a la mejor novia del mundo. Tengo su apoyo y amor incondicional y me motivan a dar lo mejor de mi en todo lo que hago. En el ambito profesional, trabajo en el departamento de TI en CONCASA, donde me concentro en el aseguramiento de la calidad (QA). Mi objetivo principal a largo plazo es la automatización de pruebas para garatizar la estabilidad de los diferentes sistemas que utilizan para difernetes gestiones de la empresa.
+En cuanto a mi vida personal, puedo decir con toda seguridad que tengo a la mejor novia del mundo. Tengo su apoyo y amor incondicional y me motivan a dar lo mejor de mi en todo lo que hago. En el ambito profesional, trabajo en el departamento de TI en CONCASA, donde me concentro en el aseguramiento de la calidad (QA). Mi objetivo principal a largo plazo es la automatización de pruebas para garatizar la estabilidad de los diferentes sistemas que utilizan para las gestiones de la empresa.
 
 A medida que avanzo en mi carrera, me he sentido cada vez más atraído por el mundo del desarrollo Front-End. Crear experiencias de usuario intuitivas y atractivas es un desafío que me emociona y me motiva a seguir aprendiendo y creciendo en esta área.
 
