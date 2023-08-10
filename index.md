@@ -1,7 +1,7 @@
 ---
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+layout: Hola
+title: Usiel Ramírez González
+tagline: Página personal
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
